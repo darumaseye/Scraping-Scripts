@@ -1,2 +1,1 @@
-# Scranon
-scaper for anon-italy.blogspot.com
+Repo to store some script used to scrape sites for fun.
